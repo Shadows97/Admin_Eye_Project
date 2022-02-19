@@ -1,0 +1,6 @@
+[submodule "Agent_and_Manager"]
+	path = Agent_and_Manager
+	url = https://github.com/Shadows97/Agent_and_Manager.git
+[submodule "Admin_Eye_Dashboard"]
+	path = Admin_Eye_Dashboard
+	url = https://github.com/Shadows97/Admin_Eye_Dashboard.git
